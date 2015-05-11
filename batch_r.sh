@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 
 #########################################################
@@ -69,7 +67,6 @@ fi
  
  
 # If the user requires information about the input commands
-# enter 'help' as the first parameter to display user input info
 if [["$1" == "help"]]; then
     info
 fi
